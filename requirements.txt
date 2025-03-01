@@ -1,0 +1,9 @@
+transformers==4.26.0  # Hugging Face T5
+streamlit==1.16.0     # Streamlit for deployment
+faiss-cpu==1.7.2      # Facebook AI Similarity Search (FAISS)
+pinecone-client==2.2.0  # Pinecone for semantic search
+torch==1.13.1         # PyTorch for model handling (required for T5)
+sentencepiece==0.1.96 # Tokenizer support for Hugging Face models
+scikit-learn==1.2.0   # For evaluation metrics
+numpy==1.24.2         # Numerical computing
+pandas==1.5.3         # Data handling and processing
